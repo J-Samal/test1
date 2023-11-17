@@ -13,3 +13,6 @@ string scrapeWebPage() {
 int fetchGoogleSearchResult() {
     return 0;
 }
+string paintWebPage(){
+    returb "GO Ahead";
+}
